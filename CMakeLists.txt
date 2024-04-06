@@ -1,0 +1,9 @@
+add_executable(
+    image_processor
+    image_processor.cpp
+    parser.cpp
+    filters.cpp
+    image.cpp
+    open_save.cpp
+    RGB.cpp
+)
